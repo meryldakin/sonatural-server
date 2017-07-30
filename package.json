@@ -1,0 +1,28 @@
+{
+  "name": "sonatural-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meryldakin/sonatural-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meryldakin/sonatural-server/issues"
+  },
+  "homepage": "https://github.com/meryldakin/sonatural-server#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.5"
+  }
+}
